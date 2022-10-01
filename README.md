@@ -5,6 +5,7 @@
 - 🔭 curious learner
 - 🤝 excellent teammate
 - 💡 creative thinker
+- 🕵️‍♀️ detail oriented
 
 ### I love to code in:
 
