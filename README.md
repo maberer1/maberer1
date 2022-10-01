@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to where the magic happens ✨
 
-<!--
-**maberer1/maberer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My best qualities:
 
-Here are some ideas to get you started:
+- 🔭 curious learner
+- 🤝 excellent teammate
+- 💡 creative thinker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I love to code in:
+
+- ⚛️ React
+- 🍦 JavaScript
+- 🖼️ CSS
+
+### I've also worked in:
+
+- 🌱 local government
+- ♻️ recycling
+- 🎨 teaching art
+
+### Check out more of my work on my [personal website](https://www.madison-aberer.dev) and connect with me on [LinkedIn](https://www.linkedin.com/in/madison-aberer/).
